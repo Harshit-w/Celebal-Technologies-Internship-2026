@@ -7,10 +7,10 @@ Welcome to the Celebal Technologies Internship 2026 repository! This repository 
 ```
 Celebal Technologies Internship 2026/
 ├── week1/
-│   └── shopping-analysis/        # EDA Project - Shopping Dataset
-├── week2/                         # (To be updated)
-├── week3/                         # (To be updated)
-├── week4/                         # (To be updated)
+│   └── shopping-analysis/        
+├── week2/                        
+├── week3/                        
+├── week4/                        
 └── README.md
 ```
 
