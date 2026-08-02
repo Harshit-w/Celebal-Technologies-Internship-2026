@@ -1,0 +1,7 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1055,CA-2015-110667,2015-04-04,2015-04-08,Standard Class,NF-18595,Nicole Fjeld,Home Office,United States,New York City,New York,10009,East,FUR-FU-10004622,Furniture,Furnishings,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,208.4,2,0.0,22.764
+1060,CA-2016-105284,2016-11-24,2016-12-01,Standard Class,MG-17650,Matthew Grinstein,Home Office,United States,Philadelphia,Pennsylvania,19143,East,OFF-FA-10001754,Office Supplies,Fasteners,Stockwell Gold Paper Clips,104.416,3,0.2,1.6008
+1069,US-2017-139955,2017-09-28,2017-09-30,Second Class,CM-12160,Charles McCrossin,Consumer,United States,Brownsville,Texas,78521,Central,OFF-SU-10001935,Office Supplies,Supplies,Staple remover,101.744,1,0.2,-0.3488
+1072,CA-2016-152814,2016-04-28,2016-05-02,Standard Class,EH-14005,Erica Hernandez,Home Office,United States,Denver,Colorado,80219,West,OFF-PA-10001970,Office Supplies,Paper,Xerox 1881,129.472,3,0.2,9.9468
+1084,US-2016-143819,2016-03-01,2016-03-05,Standard Class,KD-16270,Karen Daniels,Consumer,United States,Yonkers,New York,10701,East,OFF-PA-10003127,Office Supplies,Paper,Easy-staple paper,126.38,1,0.0,12.1348
+10001,CA-46,2025-08-08,2025-08-10,Second Class,HD-87,Harshit,Consumer,United States,New York,New York,101,East,CH-78,Furniture,Chairs,Gaming Chair,1200.0,2,0.0,250.0
