@@ -211,7 +211,7 @@ The repository contains screenshots for:
 
 GitHub Repository:
 
-<https://github.com/Harshit-w/Celebal-Technologies-Internship-2026/Week 7>
+<https://github.com/Harshit-w/Celebal-Technologies-Internship-2026/tree/main/Week%207>
 
 
 \## Author
