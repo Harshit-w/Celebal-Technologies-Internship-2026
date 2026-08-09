@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,cost_price
+1,Sql Handbook,Books,Fiction,253.9
+2,Laptop,Electronics,Laptop,59090.87
+3,Monitor,Electronics,Laptop,52845.51
+4,Sofa,Home,Furniture,18013.15
+5,Cricket Bat,Sports,Fitness,1198.16
+6,Keyboard,Electronics,Accessories,63491.13
+7,Face Wash,Beauty,Cosmetics,1545.0
+8,Lipstick,Beauty,Cosmetics,4278.68
+9,Mixer,Home,Decor,26698.69
+10,Basketball,Sports,Outdoor,3469.21
+11,Ai Basics,Books,Education,763.98
+12,Smartphone,Electronics,Mobile,37578.36
+13,T-Shirt,Clothing,Kids,1849.34
+14,Tablet,Electronics,Audio,42582.22
+15,Lamp,Home,Furniture,17548.6
+16,Dress,Clothing,Men,1945.54
+17,Perfume,Beauty,Hair Care,4055.38
+18,Body Lotion,Beauty,Cosmetics,3084.08
+19,Lamp,Home,Decor,8561.48
+20,Ai Basics,Books,Education,1317.81
+21,Lipstick,Beauty,Cosmetics,4861.87
+22,Mouse,Electronics,Camera,16162.22
+23,Machine Learning,Books,Education,317.81
+24,Perfume,Beauty,Skin Care,2479.74
+25,Yoga Mat,Sports,Outdoor,3779.14
+26,Speaker,Electronics,Accessories,22441.58
+27,Perfume,Beauty,Skin Care,3860.01
+28,Ai Basics,Books,Education,702.92
+29,Sweater,Clothing,Women,4216.76
+30,Algorithms,Books,Programming,1221.85
+31,Face Wash,Beauty,Hair Care,1292.25
+32,Body Lotion,Beauty,Hair Care,3754.44
+33,Kurta,Clothing,Women,835.93
+34,Face Wash,Beauty,Skin Care,3262.67
+35,T-Shirt,Clothing,Men,3131.28
+36,Table,Home,Furniture,14186.62
+37,Lipstick,Beauty,Cosmetics,3250.66
+38,Face Wash,Beauty,Hair Care,2266.82
+39,Machine Learning,Books,Education,534.57
+40,Football,Sports,Indoor,6624.33
+41,Camera,Electronics,Camera,79285.87
+42,Mouse,Electronics,Audio,15510.68
+43,Smartphone,Electronics,Audio,98247.37
+44,Keyboard,Electronics,Camera,70908.36
+45,Dumbbells,Sports,Fitness,9220.4
+46,Yoga Mat,Sports,Outdoor,6493.42
+47,Ai Basics,Books,Programming,497.81
+48,Microwave,Home,Decor,17690.82
+49,Jacket,Clothing,Women,2142.2
+50,Perfume,Beauty,Cosmetics,3979.14
+51,Dress,Clothing,Kids,3521.45
+52,Lipstick,Beauty,Skin Care,3961.79
+53,Body Lotion,Beauty,Cosmetics,1750.15
+54,Body Lotion,Beauty,Skin Care,4173.59
+55,Lipstick,Beauty,Skin Care,1885.07
+56,Sofa,Home,Furniture,23622.11
+57,Jeans,Clothing,Kids,2504.37
+58,Dress,Clothing,Women,2469.9
+59,Machine Learning,Books,Business,1243.65
+60,Face Wash,Beauty,Skin Care,1918.94
+61,Smartphone,Electronics,Camera,27642.73
+62,Lipstick,Beauty,Skin Care,4101.85
+63,Algorithms,Books,Programming,430.09
+64,Mouse,Electronics,Accessories,93117.18
+65,Lamp,Home,Decor,8962.94
+66,Cricket Bat,Sports,Fitness,6345.81
+67,Monitor,Electronics,Mobile,94052.48
+68,Lipstick,Beauty,Cosmetics,1575.64
+69,Camera,Electronics,Laptop,6749.31
+70,Dumbbells,Sports,Fitness,5396.07
+71,Jeans,Clothing,Kids,1994.84
+72,Body Lotion,Beauty,Cosmetics,199.64
+73,Tennis Racket,Sports,Indoor,7599.51
+74,Ai Basics,Books,Programming,245.13
+75,Face Wash,Beauty,Cosmetics,1758.88
+76,Mixer,Home,Furniture,19136.21
+77,Dress,Clothing,Men,1679.18
+78,Laptop,Electronics,Laptop,40123.29
+79,Face Wash,Beauty,Hair Care,3269.81
+80,Python Guide,Books,Education,274.27
+81,Algorithms,Books,Business,641.3
+82,Dress,Clothing,Women,2740.6
+83,Smartphone,Electronics,Audio,18455.42
+84,Python Guide,Books,Education,529.09
+85,Lipstick,Beauty,Cosmetics,2290.94
+86,Microwave,Home,Kitchen,29410.8
+87,Camera,Electronics,Mobile,68101.36
+88,Speaker,Electronics,Laptop,7189.72
+89,Lamp,Home,Kitchen,18350.3
+90,Lamp,Home,Kitchen,17430.69
+91,Lipstick,Beauty,Hair Care,4806.55
+92,Speaker,Electronics,Laptop,12217.22
+93,Sql Handbook,Books,Business,1383.07
+94,Football,Sports,Indoor,2140.24
+95,Chair,Home,Kitchen,29603.95
+96,Mixer,Home,Kitchen,26794.28
+97,Dress,Clothing,Kids,4030.37
+98,Perfume,Beauty,Skin Care,1260.01
+99,Yoga Mat,Sports,Indoor,8134.79
+100,Body Lotion,Beauty,Skin Care,2050.98
+101,Sofa,Home,Decor,24788.51
+102,Tablet,Electronics,Laptop,68170.84
+103,Machine Learning,Books,Fiction,1452.77
+104,Football,Sports,Fitness,3389.18
+105,Dress,Clothing,Women,2738.82
+106,Ai Basics,Books,Programming,484.23
+107,Microwave,Home,Kitchen,5474.76
+108,Shampoo,Beauty,Skin Care,3065.18
+109,Perfume,Beauty,Skin Care,3878.01
+110,Machine Learning,Books,Fiction,797.25
+111,Lamp,Home,Decor,7723.9
+112,Lamp,Home,Kitchen,5163.37
+113,Basketball,Sports,Outdoor,3469.53
+114,Mixer,Home,Kitchen,12262.14
+115,Ai Basics,Books,Programming,729.43
+116,T-Shirt,Clothing,Men,3192.27
+117,Kurta,Clothing,Men,1769.76
+118,Sweater,Clothing,Women,2637.64
+119,Speaker,Electronics,Audio,35613.06
+120,Speaker,Electronics,Accessories,67415.8
+121,Python Guide,Books,Programming,1118.51
+122,Football,Sports,Outdoor,2349.23
+123,Perfume,Beauty,Hair Care,2794.3
+124,Body Lotion,Beauty,Cosmetics,2030.13
+125,Sql Handbook,Books,Education,800.11
+126,Keyboard,Electronics,Mobile,52173.6
+127,Sweater,Clothing,Kids,1797.09
+128,Tennis Racket,Sports,Fitness,5319.49
+129,Lipstick,Beauty,Cosmetics,4097.17
+130,Java Programming,Books,Education,530.75
+131,Mixer,Home,Decor,14500.41
+132,Microwave,Home,Decor,14673.24
+133,Body Lotion,Beauty,Cosmetics,4126.14
+134,Sweater,Clothing,Men,389.01
+135,Sql Handbook,Books,Business,802.55
+136,Perfume,Beauty,Hair Care,2848.35
+137,Microwave,Home,Kitchen,14060.07
+138,Body Lotion,Beauty,Hair Care,3632.53
+139,Lamp,Home,Decor,7772.31
+140,Shampoo,Beauty,Hair Care,3878.75
+141,Mixer,Home,Furniture,10789.69
+142,Lamp,Home,Kitchen,11700.98
+143,Cricket Bat,Sports,Outdoor,7284.34
+144,Java Programming,Books,Business,382.9
+145,Body Lotion,Beauty,Hair Care,3116.82
+146,Shampoo,Beauty,Skin Care,1205.79
+147,T-Shirt,Clothing,Men,772.56
+148,Sweater,Clothing,Men,3368.6
+149,Tennis Racket,Sports,Outdoor,3551.09
+150,Chair,Home,Furniture,22291.25
+151,Camera,Electronics,Laptop,92003.66
+152,Cricket Bat,Sports,Outdoor,9297.38
+153,Monitor,Electronics,Mobile,98307.89
+154,Java Programming,Books,Business,1413.98
+155,Face Wash,Beauty,Hair Care,896.22
+156,Yoga Mat,Sports,Fitness,3615.3
+157,Football,Sports,Fitness,3574.22
+158,Jacket,Clothing,Men,1554.87
+159,Machine Learning,Books,Education,314.46
+160,Lamp,Home,Decor,14389.43
+161,Shampoo,Beauty,Cosmetics,3019.49
+162,Speaker,Electronics,Camera,91765.85
+163,Mouse,Electronics,Mobile,33147.7
+164,Perfume,Beauty,Hair Care,2495.26
+165,Perfume,Beauty,Hair Care,2338.31
+166,Speaker,Electronics,Camera,2666.16
+167,Java Programming,Books,Programming,693.18
+168,Microwave,Home,Furniture,2536.06
+169,Yoga Mat,Sports,Indoor,7775.36
+170,Sofa,Home,Decor,13731.85
+171,Football,Sports,Outdoor,5623.35
+172,Chair,Home,Kitchen,16100.85
+173,Chair,Home,Furniture,14158.62
+174,Sofa,Home,Decor,7801.61
+175,Ai Basics,Books,Fiction,1171.69
+176,Laptop,Electronics,Audio,59597.44
+177,Tennis Racket,Sports,Fitness,3546.32
+178,Java Programming,Books,Fiction,485.22
+179,Shampoo,Beauty,Cosmetics,2528.54
+180,Machine Learning,Books,Business,308.9
+181,Dumbbells,Sports,Indoor,3357.0
+182,Sofa,Home,Furniture,29049.69
+183,Shampoo,Beauty,Cosmetics,1718.29
+184,Tablet,Electronics,Audio,19452.92
+185,Java Programming,Books,Business,1085.28
+186,Dumbbells,Sports,Indoor,4929.38
+187,Lamp,Home,Kitchen,15169.68
+188,Tablet,Electronics,Audio,41686.05
+189,Shampoo,Beauty,Skin Care,2811.23
+190,Lipstick,Beauty,Cosmetics,1227.09
+191,Lipstick,Beauty,Skin Care,1754.06
+192,Tennis Racket,Sports,Fitness,7461.34
+193,Sql Handbook,Books,Fiction,1383.66
+194,Perfume,Beauty,Cosmetics,464.22
+195,Chair,Home,Furniture,7327.29
+196,Chair,Home,Furniture,2283.28
+197,Microwave,Home,Decor,964.09
+198,Lipstick,Beauty,Cosmetics,2694.15
+199,Python Guide,Books,Education,702.8
+200,T-Shirt,Clothing,Men,3212.97
