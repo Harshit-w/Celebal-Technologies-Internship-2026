@@ -1,0 +1,24 @@
+# Databricks / Spark generated folders
+_checkpoints/
+_schemas/
+
+# Jupyter generated folders
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
